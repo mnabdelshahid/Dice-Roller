@@ -1,0 +1,107 @@
+/* .App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #09d3ac;
+} */
+h1{
+  color:white;
+}
+p{
+  color: white;
+}
+h2{
+  color: white;
+  position:absolute;
+  top:0;
+}
+
+#display{
+    display : flex;
+    justify-content: space-around;
+      color: white;
+}
+#box{
+    width: 100px;
+    height: 100px;
+    position:absolute;
+    top:50;
+    left:0
+}
+#box2{
+    background-color: white;
+    width: 100px;
+    height: 100px;
+}
+.d0{
+    background-image: url('https://thumbs.gfycat.com/PastelComplicatedAfricanfisheagle-size_restricted.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.d1{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm8-PSm4PTsw9tmGSTNjjAXSpPi1x6Y09KDd_8S1UQtfM3MTDu&s');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.d2{
+    background-image: url('http://www.aljanh.net/data/archive/img/2684347711.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.d3{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlKSEUyimIcRD2FV-kUDPc9-RSnMpvxRmx3YIis6rPTfjcRUha&s');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.d4{
+    background-image: url('https://i.ya-webdesign.com/images/dice-clipart-number-4-8.gif');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.d5{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQvzUcQs4FiS0xbKqdye0Jo2WS77mwRgnPg3tvipZE1vnaHqlj&s');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.d6{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiGyp56NQuugp-Y380iScFpvq-2FjGGgxaD8CkUNKYe387-JnP&s');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+button{
+    padding: 0;
+border: none;
+background: none;
+}
+
+body{
+  background-image: url('https://wallpapercave.com/wp/7cVRzLj.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+background-position: center;
+background-origin: inherit;
+background-attachment: fixed;
+}
